@@ -5,6 +5,7 @@
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
@@ -21,7 +22,14 @@ Benefits of Gantt Charts
 How Gantt charts assist in detailed project.
 In project management, gantt charts are used to schedule, track, and communicate deliverables, deadlines, dependencies, and resource assignments. They're particularly helpful in managing complex projects with interdependencies that a simple to-do list or Kanban board can't handle.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Our software primarily aims to address the core issues of poor communication and collaboration within software development teams, by providing a platform for streamlined project management, clear task assignments, real-time updates, and efficient documentation, ultimately helping teams deliver projects on time and within budget while minimizing misunderstandings and rework due to unclear requirements or lack of visibility. 
+
+Why are these problems significant to your target audience?
+Inadequate Planning and Requirements Gathering
+One of the most significant problems in software development is the failure to plan thoroughly and define requirements accurately. In many cases, teams rush into coding without a clear understanding of the project's overall goals, user needs, and technical constraints.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+You define the scope of the problem by considering the affected areas and specifying which things you can reasonably and effectively address. Prioritize, Prioritize, Prioritize! In this step, the problem can be prioritized based on severity and potential impact.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 1 - Get back to Design and Design Principles.
