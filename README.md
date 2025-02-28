@@ -44,6 +44,12 @@ Why is important to maintain high starndards
 Maintaining high standards throughout a software project is crucial because it ensures the quality, reliability, and maintainability of the final product, leading to improved customer satisfaction, reduced development costs, and a better reputation for the company by minimizing bugs, security vulnerabilities, and issues that could arise later in the development cycle, especially when making changes or updates; ultimately contributing to a more successful software launch and long-term success in the market. 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope is crucial for successful project planning because it provides a clear understanding of what needs to be accomplished, allowing project managers to accurately estimate timelines, allocate resources, set budgets, and identify potential risks, ultimately ensuring the team stays focused and on track to achieve project goals within the defined parameters. 
+What is a Work Breakdown Structure (WBS).
+A Work Breakdown Structure (WBS) is a diagram that breaks down a project into smaller tasks to help manage and plan it. It's a visual tool that can be used for projects, programs, and initiatives. 
+
+Why is it useful
+A Work Breakdown Structure (WBS) is a project management tool that breaks down a project into smaller, more manageable components, creating a hierarchical view of the entire project scope, which is useful for effectively planning, organizing, and tracking progress by clearly defining all tasks, deliverables, and dependencies within a project, allowing for better resource allocation, cost estimation, and overall project control. 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Benefits of Gantt Charts
 1.Allows Better Tracking. 
